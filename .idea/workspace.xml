@@ -25,28 +25,20 @@
       <file leaf-file-name="Window.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/View/Window.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35017422">
-              <caret line="241" column="55" selection-start-line="241" selection-start-column="55" selection-end-line="241" selection-end-column="55" />
+            <state vertical-scroll-proportion="1.9181185">
+              <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#setEaRBi#0;class#Window#0" expanded="false" />
                 <element signature="method#setMeRBi#0;class#Window#0" expanded="false" />
                 <element signature="method#setHaRBi#0;class#Window#0" expanded="false" />
                 <element signature="method#button#0;class#Window#0" expanded="false" />
-                <element signature="method#easyGame#0;class#Window#0" expanded="false" />
-                <element signature="method#mediumGame#0;class#Window#0" expanded="false" />
-                <element signature="method#hardGame#0;class#Window#0" expanded="false" />
-                <element signature="method#choseDifficult#0;class#Window#0" expanded="false" />
-                <element signature="method#actionPerformed#0;class#6777:7146" expanded="false" />
-                <element signature="class#7376:7529" expanded="false" />
-                <element signature="e#7472#7473#0" expanded="true" />
-                <element signature="e#7518#7519#0" expanded="true" />
-                <element signature="e#7846#7847#0" expanded="true" />
-                <element signature="e#7908#7909#0" expanded="true" />
-                <element signature="e#8106#8107#0" expanded="true" />
-                <element signature="e#8168#8169#0" expanded="true" />
-                <element signature="e#8365#8366#0" expanded="true" />
-                <element signature="e#8427#8428#0" expanded="true" />
+                <element signature="class#4730:4985" expanded="false" />
+                <element signature="class#5079:5334" expanded="false" />
+                <element signature="class#5424:5677" expanded="false" />
+                <element signature="class#6777:7146" expanded="false" />
+                <element signature="class#7750:7919" expanded="false" />
+                <element signature="class#8010:8179" expanded="false" />
+                <element signature="class#8269:8438" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -60,6 +52,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -77,8 +72,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1285" />
-    <option name="y" value="142" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
@@ -107,9 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,6 +176,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -488,7 +483,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1285" y="142" width="1296" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -498,7 +493,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30645162" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30645162" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -520,7 +515,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -529,12 +524,22 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Controller/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/View/Window.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#setEaRBi#0;class#Window#0" expanded="false" />
+            <element signature="method#setMeRBi#0;class#Window#0" expanded="false" />
+            <element signature="method#setHaRBi#0;class#Window#0" expanded="false" />
+            <element signature="method#button#0;class#Window#0" expanded="false" />
+            <element signature="class#4730:4985" expanded="false" />
+            <element signature="class#5079:5334" expanded="false" />
+            <element signature="class#5424:5677" expanded="false" />
+            <element signature="class#6777:7146" expanded="false" />
+            <element signature="class#7750:7919" expanded="false" />
+            <element signature="class#8010:8179" expanded="false" />
+            <element signature="class#8269:8438" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -544,35 +549,17 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#setEaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setMeRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setHaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#button#0;class#Window#0" expanded="false" />
-            <element signature="method#easyGame#0;class#Window#0" expanded="false" />
-            <element signature="method#mediumGame#0;class#Window#0" expanded="false" />
-            <element signature="method#hardGame#0;class#Window#0" expanded="false" />
-            <element signature="method#choseDifficult#0;class#Window#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#6777:7146" expanded="false" />
-            <element signature="class#7376:7529" expanded="false" />
-            <element signature="e#7472#7473#0" expanded="true" />
-            <element signature="e#7518#7519#0" expanded="true" />
-            <element signature="e#7846#7847#0" expanded="true" />
-            <element signature="e#7908#7909#0" expanded="true" />
-            <element signature="e#8106#8107#0" expanded="true" />
-            <element signature="e#8168#8169#0" expanded="true" />
-            <element signature="e#8365#8366#0" expanded="true" />
-            <element signature="e#8427#8428#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="class#4730:4985" expanded="false" />
+            <element signature="class#5079:5334" expanded="false" />
+            <element signature="class#5424:5677" expanded="false" />
+            <element signature="class#6777:7146" expanded="false" />
+            <element signature="class#7750:7919" expanded="false" />
+            <element signature="class#8010:8179" expanded="false" />
+            <element signature="class#8269:8438" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -582,25 +569,17 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#setEaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setMeRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setHaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#button#0;class#Window#0" expanded="false" />
-            <element signature="method#easyGame#0;class#Window#0" expanded="false" />
-            <element signature="method#mediumGame#0;class#Window#0" expanded="false" />
-            <element signature="method#hardGame#0;class#Window#0" expanded="false" />
-            <element signature="method#choseDifficult#0;class#Window#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#6777:7146" expanded="false" />
-            <element signature="class#7376:7529" expanded="false" />
-            <element signature="e#7472#7473#0" expanded="true" />
-            <element signature="e#7518#7519#0" expanded="true" />
-            <element signature="e#7846#7847#0" expanded="true" />
-            <element signature="e#7908#7909#0" expanded="true" />
-            <element signature="e#8106#8107#0" expanded="true" />
-            <element signature="e#8168#8169#0" expanded="true" />
-            <element signature="e#8365#8366#0" expanded="true" />
-            <element signature="e#8427#8428#0" expanded="true" />
+            <element signature="class#4730:4985" expanded="false" />
+            <element signature="class#5079:5334" expanded="false" />
+            <element signature="class#5424:5677" expanded="false" />
+            <element signature="class#6777:7146" expanded="false" />
+            <element signature="class#7750:7919" expanded="false" />
+            <element signature="class#8010:8179" expanded="false" />
+            <element signature="class#8269:8438" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -620,25 +599,77 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#setEaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setMeRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setHaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#button#0;class#Window#0" expanded="false" />
-            <element signature="method#easyGame#0;class#Window#0" expanded="false" />
-            <element signature="method#mediumGame#0;class#Window#0" expanded="false" />
-            <element signature="method#hardGame#0;class#Window#0" expanded="false" />
-            <element signature="method#choseDifficult#0;class#Window#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#6777:7146" expanded="false" />
-            <element signature="class#7376:7529" expanded="false" />
-            <element signature="e#7472#7473#0" expanded="true" />
-            <element signature="e#7518#7519#0" expanded="true" />
-            <element signature="e#7846#7847#0" expanded="true" />
-            <element signature="e#7908#7909#0" expanded="true" />
-            <element signature="e#8106#8107#0" expanded="true" />
-            <element signature="e#8168#8169#0" expanded="true" />
-            <element signature="e#8365#8366#0" expanded="true" />
-            <element signature="e#8427#8428#0" expanded="true" />
+            <element signature="class#4730:4985" expanded="false" />
+            <element signature="class#5079:5334" expanded="false" />
+            <element signature="class#5424:5677" expanded="false" />
+            <element signature="class#6777:7146" expanded="false" />
+            <element signature="class#7750:7919" expanded="false" />
+            <element signature="class#8010:8179" expanded="false" />
+            <element signature="class#8269:8438" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#setEaRBi#0;class#Window#0" expanded="false" />
+            <element signature="method#setMeRBi#0;class#Window#0" expanded="false" />
+            <element signature="method#setHaRBi#0;class#Window#0" expanded="false" />
+            <element signature="method#button#0;class#Window#0" expanded="false" />
+            <element signature="class#4730:4985" expanded="false" />
+            <element signature="class#5079:5334" expanded="false" />
+            <element signature="class#5424:5677" expanded="false" />
+            <element signature="class#6777:7146" expanded="false" />
+            <element signature="class#7750:7919" expanded="false" />
+            <element signature="class#8010:8179" expanded="false" />
+            <element signature="class#8269:8438" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#setEaRBi#0;class#Window#0" expanded="false" />
+            <element signature="method#setMeRBi#0;class#Window#0" expanded="false" />
+            <element signature="method#setHaRBi#0;class#Window#0" expanded="false" />
+            <element signature="method#button#0;class#Window#0" expanded="false" />
+            <element signature="class#4730:4985" expanded="false" />
+            <element signature="class#5079:5334" expanded="false" />
+            <element signature="class#5424:5677" expanded="false" />
+            <element signature="class#6777:7146" expanded="false" />
+            <element signature="class#7750:7919" expanded="false" />
+            <element signature="class#8010:8179" expanded="false" />
+            <element signature="class#8269:8438" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -658,25 +689,17 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#setEaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setMeRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setHaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#button#0;class#Window#0" expanded="false" />
-            <element signature="method#easyGame#0;class#Window#0" expanded="false" />
-            <element signature="method#mediumGame#0;class#Window#0" expanded="false" />
-            <element signature="method#hardGame#0;class#Window#0" expanded="false" />
-            <element signature="method#choseDifficult#0;class#Window#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#6777:7146" expanded="false" />
-            <element signature="class#7376:7529" expanded="false" />
-            <element signature="e#7472#7473#0" expanded="true" />
-            <element signature="e#7518#7519#0" expanded="true" />
-            <element signature="e#7846#7847#0" expanded="true" />
-            <element signature="e#7908#7909#0" expanded="true" />
-            <element signature="e#8106#8107#0" expanded="true" />
-            <element signature="e#8168#8169#0" expanded="true" />
-            <element signature="e#8365#8366#0" expanded="true" />
-            <element signature="e#8427#8428#0" expanded="true" />
+            <element signature="class#4730:4985" expanded="false" />
+            <element signature="class#5079:5334" expanded="false" />
+            <element signature="class#5424:5677" expanded="false" />
+            <element signature="class#6777:7146" expanded="false" />
+            <element signature="class#7750:7919" expanded="false" />
+            <element signature="class#8010:8179" expanded="false" />
+            <element signature="class#8269:8438" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -696,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5638507">
           <caret line="256" column="42" selection-start-line="256" selection-start-column="42" selection-end-line="256" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14529915">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,28 +741,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/View/Window.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35017422">
-          <caret line="241" column="55" selection-start-line="241" selection-start-column="55" selection-end-line="241" selection-end-column="55" />
+        <state vertical-scroll-proportion="1.9181185">
+          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#setEaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setMeRBi#0;class#Window#0" expanded="false" />
             <element signature="method#setHaRBi#0;class#Window#0" expanded="false" />
             <element signature="method#button#0;class#Window#0" expanded="false" />
-            <element signature="method#easyGame#0;class#Window#0" expanded="false" />
-            <element signature="method#mediumGame#0;class#Window#0" expanded="false" />
-            <element signature="method#hardGame#0;class#Window#0" expanded="false" />
-            <element signature="method#choseDifficult#0;class#Window#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#6777:7146" expanded="false" />
-            <element signature="class#7376:7529" expanded="false" />
-            <element signature="e#7472#7473#0" expanded="true" />
-            <element signature="e#7518#7519#0" expanded="true" />
-            <element signature="e#7846#7847#0" expanded="true" />
-            <element signature="e#7908#7909#0" expanded="true" />
-            <element signature="e#8106#8107#0" expanded="true" />
-            <element signature="e#8168#8169#0" expanded="true" />
-            <element signature="e#8365#8366#0" expanded="true" />
-            <element signature="e#8427#8428#0" expanded="true" />
+            <element signature="class#4730:4985" expanded="false" />
+            <element signature="class#5079:5334" expanded="false" />
+            <element signature="class#5424:5677" expanded="false" />
+            <element signature="class#6777:7146" expanded="false" />
+            <element signature="class#7750:7919" expanded="false" />
+            <element signature="class#8010:8179" expanded="false" />
+            <element signature="class#8269:8438" expanded="false" />
           </folding>
         </state>
       </provider>
