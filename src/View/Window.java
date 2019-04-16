@@ -176,28 +176,20 @@ public class Window extends JFrame {
         JMenuItem optMenu = new JMenu("Option");
 
         JMenuItem newGame = new JMenuItem("New", iconNew);
-        newGame.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(null, "Да начнется новая игра!",
-                        "Warning", JOptionPane.WARNING_MESSAGE);
+        newGame.addActionListener(e -> {
+            JOptionPane.showMessageDialog(null, "Да начнется новая игра!",
+                    "Warning", JOptionPane.WARNING_MESSAGE);
 
-                panel.setVisible(false);
-                dispose();
-                choseDifficult();
-            }
+            panel.setVisible(false);
+            dispose();
+            choseDifficult();
         });
 
         JMenuItem loadGame = new JMenuItem("Load", iconLoad);
         JMenuItem saveGame = new JMenuItem("Save", iconSave);
         JMenuItem exitGame = new JMenuItem("Exit", iconExit);
 
-        exitGame.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                System.exit(0);
-            }
-        });
+        exitGame.addActionListener(event -> System.exit(0));
 
         fileMenu.add(newGame);
         fileMenu.add(loadGame);
